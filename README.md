@@ -1,2 +1,3 @@
 # circleoftrustinvest-site
-Circle Of Trust Invest website 
+
+Static website for Circle Of Trust Invest (GitHub Pages).
